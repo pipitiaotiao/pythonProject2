@@ -54,6 +54,12 @@ f=None
 
 #print("转换前:",type(a))
 x=str(b)
+
+
+
+#gfhjkl,.
+
+
 #print("转换后:",type(x))
 
 #print(x)
